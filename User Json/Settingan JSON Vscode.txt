@@ -1,0 +1,12 @@
+{
+    "editor.fontWeight": "500",
+    "window.zoomLevel": 1,
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.folders.associations": {
+        "bloc": "controller",
+        "ui": "layout",
+    },
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "workbench.colorTheme": "Dracula",
+    "editor.fontSize": 16
+}
